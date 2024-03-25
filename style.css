@@ -1,0 +1,21 @@
+body{
+    position: relative;
+}
+header{
+    width: 100vw;
+    height: 70px;
+    background: black;
+    border-radius: 0 0 30px 30px ;
+    color: white;
+
+    position: fixed;
+}
+header>h3{
+    margin: 0;
+}
+header>nav{
+    position: absolute;
+
+    right: 10px;
+    margin: auto;
+}
